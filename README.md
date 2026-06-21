@@ -4,16 +4,20 @@ Biotechnology Graduate with interests in Bioinformatics, Computational Biology, 
 
 I am interested in applying computational methods, machine learning, and data-driven approaches to biological research, disease biology, precision medicine, and drug discovery.
 
+---
+
 ## Research Interests
 
 - Bioinformatics
 - Computational Biology
-- Computational Drug Discovery
 - Molecular Docking
+- Computational Drug Discovery
 - Biomedical Data Science
 - Precision Medicine
-- Neuroinformatics
+- Disease Biomarker Discovery
 - Bioprocess Engineering
+
+---
 
 ## Current Technical Focus
 
@@ -21,23 +25,27 @@ I am interested in applying computational methods, machine learning, and data-dr
 - Machine Learning for Biomedical Data
 - Biological Data Visualization
 - Molecular Docking Workflows
-- Gene and Disease Data Analysis
-- Bioprocess Yield Optimization
-- Research-Oriented Data Science Projects
+- Biomedical Dataset Analysis
+- Fermentation Process Optimization
+- Research-Oriented Scientific Computing
+
+---
 
 ## Featured Projects
 
 ### COVID-19 Mpro Phytochemical Docking
-Computational docking workflow for screening plant-derived compounds against SARS-CoV-2 Main Protease.
+Virtual screening workflow for selected phytochemicals against SARS-CoV-2 main protease using computational docking and ranking analysis.
 
 ### Parkinson's Voice Biomarker ML
-Machine learning workflow for Parkinson's disease classification using biomedical voice measurement data.
+Machine learning workflow for Parkinson's disease classification using real biomedical voice measurement data.
 
 ### Bioprocess Yield Optimization ML
-Machine learning-based analysis of fermentation process parameters and bioprocess yield prediction.
+Data-driven analysis and machine learning workflow for fermentation process optimization and yield prediction.
 
 ### Bioinformatics Core Toolkit
-Python toolkit for DNA sequence analysis, FASTA processing, mutation detection, and biological data handling.
+Collection of bioinformatics utilities including DNA sequence analysis, FASTA parsing, mutation analysis, and protein translation.
+
+---
 
 ## Academic Background
 
@@ -45,17 +53,13 @@ Python toolkit for DNA sequence analysis, FASTA processing, mutation detection, 
 - Final Year Research Project:
   *In Silico Molecular Docking and Virtual Screening for Identification of Potential Drug Candidates*
 
-## Currently Learning
-
-- Advanced Python for Bioinformatics
-- Machine Learning Applications in Life Sciences
-- Biomedical Data Analysis
-- Research Reproducibility and Scientific Computing
+---
 
 ## Long-Term Interests
 
-- Translational Bioinformatics
 - Computational Drug Discovery
+- Translational Bioinformatics
 - Multi-Omics Data Analysis
-- Artificial Intelligence for Healthcare
+- Biomedical Artificial Intelligence
 - Precision Medicine
+- Research and Development
