@@ -1,36 +1,61 @@
 # Ishitta Sarkar
 
-Biotechnology Graduate with interests in Bioinformatics, Computational Biology and Data-Driven Biomedical Research.
+Biotechnology Graduate with interests in Bioinformatics, Computational Biology, Biomedical Data Science, Molecular Docking, and Computational Drug Discovery.
 
-Interested in the application of computational methods, data science and artificial intelligence to biological research, drug discovery and healthcare.
+I am interested in applying computational methods, machine learning, and data-driven approaches to biological research, disease biology, precision medicine, and drug discovery.
 
 ## Research Interests
 
 - Bioinformatics
 - Computational Biology
+- Computational Drug Discovery
 - Molecular Docking
-- Drug Discovery
-- Genomics
-- Precision Medicine
 - Biomedical Data Science
+- Precision Medicine
+- Neuroinformatics
+- Bioprocess Engineering
 
-## Current Focus
+## Current Technical Focus
 
 - Python Programming
-- R Programming
-- Linux for Bioinformatics
-- RNA-seq Analysis
-- Machine Learning for Biological Data
+- Machine Learning for Biomedical Data
+- Biological Data Visualization
+- Molecular Docking Workflows
+- Gene and Disease Data Analysis
+- Bioprocess Yield Optimization
+- Research-Oriented Data Science Projects
+
+## Featured Projects
+
+### COVID-19 Mpro Phytochemical Docking
+Computational docking workflow for screening plant-derived compounds against SARS-CoV-2 Main Protease.
+
+### Parkinson's Voice Biomarker ML
+Machine learning workflow for Parkinson's disease classification using biomedical voice measurement data.
+
+### Bioprocess Yield Optimization ML
+Machine learning-based analysis of fermentation process parameters and bioprocess yield prediction.
+
+### Bioinformatics Core Toolkit
+Python toolkit for DNA sequence analysis, FASTA processing, mutation detection, and biological data handling.
 
 ## Academic Background
 
-- B.Tech in Biotechnology
+- B.Tech Biotechnology
 - Final Year Research Project:
-  *In Silico Molecular Docking and Virtual Screening for the Identification of Potential Drug Candidates*
+  *In Silico Molecular Docking and Virtual Screening for Identification of Potential Drug Candidates*
+
+## Currently Learning
+
+- Advanced Python for Bioinformatics
+- Machine Learning Applications in Life Sciences
+- Biomedical Data Analysis
+- Research Reproducibility and Scientific Computing
 
 ## Long-Term Interests
 
-- Computational Drug Discovery
-- Multi-omics Analysis
 - Translational Bioinformatics
+- Computational Drug Discovery
+- Multi-Omics Data Analysis
 - Artificial Intelligence for Healthcare
+- Precision Medicine
