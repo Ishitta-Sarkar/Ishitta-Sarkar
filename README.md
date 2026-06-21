@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ishitta-Sarkar/Ishitta-Sarkar/blob/main/github_banner.png?raw=true" width="100%">
+  <img src="https://github.com/Ishitta-Sarkar/Ishitta-Sarkar/blob/main/Image%20Banner_github.png?raw=true" width="100%">
 </p>
 
 # Ishitta Sarkar
