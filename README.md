@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Ishitta-Sarkar/Ishitta-Sarkar/blob/main/Image%20Banner_github.png?raw=true" width="100%">
+  <img src="./github_banner.png" width="100%" alt="Ishitta Sarkar GitHub Banner">
 </p>
 
-# Ishitta Sarkar
+## About
 
-Biotechnology Graduate with interests in **Bioinformatics, Computational Biology, Biomedical Data Science, Machine Learning, Molecular Docking, and Computational Drug Discovery**.
+Biotechnology Graduate with a growing interest in **Bioinformatics, Computational Biology, Computational Drug Discovery, Biomedical Data Science, and Machine Learning for Life Sciences**.
 
-I am interested in applying computational methods, data-driven approaches, and artificial intelligence to biological research, disease biology, precision medicine, drug discovery, and bioprocess optimization.
+My work focuses on applying computational methods, data-driven analysis, and artificial intelligence to biological research, disease understanding, drug discovery, and bioprocess optimization. Through research-oriented projects, I explore how biological data can be transformed into meaningful scientific insights using modern computational tools.
 
 ---
 
@@ -15,7 +15,7 @@ I am interested in applying computational methods, data-driven approaches, and a
 - Bioinformatics
 - Computational Biology
 - Computational Drug Discovery
-- Molecular Docking
+- Molecular Docking & Virtual Screening
 - Biomedical Data Science
 - Disease Biomarker Discovery
 - Precision Medicine
@@ -31,9 +31,9 @@ I am interested in applying computational methods, data-driven approaches, and a
 - Machine Learning for Biomedical Data
 - Biological Data Visualization
 - Molecular Docking Workflows
-- Drug Discovery Pipelines
 - Biomedical Dataset Analysis
-- Fermentation Process Optimization
+- Drug Discovery Pipelines
+- Fermentation Process Analytics
 - Research-Oriented Data Science
 - Reproducible Computational Workflows
 
@@ -42,22 +42,22 @@ I am interested in applying computational methods, data-driven approaches, and a
 ## Featured Projects
 
 ### COVID-19 Mpro Phytochemical Docking
-Virtual screening workflow for selected phytochemicals against SARS-CoV-2 main protease, including docking score analysis, candidate ranking, and visualization.
+Virtual screening workflow evaluating phytochemicals against the SARS-CoV-2 main protease using computational docking and candidate ranking strategies.
 
 ### Parkinson's Voice Biomarker ML
-Machine learning workflow for Parkinson's disease classification using real biomedical voice measurements, data visualization, model evaluation, and research notebooks.
+Machine learning workflow for Parkinson's disease classification using biomedical voice measurements, exploratory analysis, visualization, and model evaluation.
 
 ### Bioprocess Yield Optimization ML
-Data-driven machine learning workflow for fermentation process analysis, yield prediction, and bioprocess parameter optimization.
+Data-driven machine learning workflow for fermentation process analysis, yield prediction, and process optimization.
 
 ### Computational Drug Discovery Platform
-Computational pipeline for ligand screening, docking analysis, candidate ranking, and virtual drug discovery workflows.
+Computational pipeline for ligand screening, docking analysis, candidate prioritization, and virtual drug discovery workflows.
 
 ### AI Biomarker Discovery
-Machine learning and analytical workflows for biomarker identification using biological datasets.
+Machine learning-based analytical workflow for identifying potential disease biomarkers from biological datasets.
 
 ### Bioinformatics Core Toolkit
-Collection of bioinformatics utilities including DNA sequence analysis, FASTA parsing, mutation detection, sequence statistics, and protein translation.
+Collection of bioinformatics utilities for DNA sequence analysis, FASTA parsing, mutation detection, sequence statistics, and protein translation.
 
 ---
 
@@ -65,41 +65,41 @@ Collection of bioinformatics utilities including DNA sequence analysis, FASTA pa
 
 **B.Tech Biotechnology**
 
-**Final Year Research Project**
+### Final Year Research Project
 
 *In Silico Molecular Docking and Virtual Screening for Identification of Potential Drug Candidates*
 
 ---
 
-## Research Experience & Areas of Exploration
+## Areas of Exploration
 
-- Molecular Docking and Virtual Screening
+- Molecular Docking & Virtual Screening
 - Computational Drug Discovery
 - Biomedical Machine Learning
 - Disease Biomarker Analysis
 - Biological Data Mining
 - Precision Medicine
-- Fermentation and Bioprocess Analytics
+- Fermentation & Bioprocess Analytics
 - Scientific Computing for Life Sciences
 
 ---
 
-## Long-Term Interests
+## Long-Term Goals
 
 - Computational Drug Discovery
 - Translational Bioinformatics
 - Multi-Omics Data Analysis
 - Biomedical Artificial Intelligence
-- Precision Medicine
 - Computational Systems Biology
+- Precision Medicine
 - Research & Development
 - Academic and Industrial Bioinformatics
 
 ---
 
-## Profiles
+## Research Profile
 
-- ORCID: https://orcid.org/0009-0008-1028-6010
+**ORCID:** https://orcid.org/0009-0008-1028-6010
 
 ---
 
