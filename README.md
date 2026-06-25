@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Ishitta-Sarkar/Ishitta-Sarkar/blob/main/Image%20Banner_github.png" width="100%" alt="Ishitta Sarkar GitHub Banner">
-</p>
-
 ## About
 
 Biotechnology Graduate with a growing interest in **Bioinformatics, Computational Biology, Computational Drug Discovery, Biomedical Data Science, and Machine Learning for Life Sciences**.
