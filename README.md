@@ -1,102 +1,107 @@
-## About
+# Ishitta Sarkar
 
-Biotechnology Graduate with a growing interest in **Bioinformatics, Computational Biology, Computational Drug Discovery, Biomedical Data Science, and Machine Learning for Life Sciences**.
-
-My work focuses on applying computational methods, data-driven analysis, and artificial intelligence to biological research, disease understanding, drug discovery, and bioprocess optimization. Through research-oriented projects, I explore how biological data can be transformed into meaningful scientific insights using modern computational tools.
+**Bioinformatics | Computational Biology | Biomedical Artificial Intelligence**
 
 ---
 
-## Research Interests
+## About
+
+Biotechnology graduate pursuing research in **Bioinformatics, Computational Biology, and Biomedical Artificial Intelligence**. My work focuses on developing computational methods, biomedical knowledge graphs, machine learning workflows, and reproducible research software for disease biology, drug discovery, systems biology, and precision medicine.
+
+---
+
+## Research Areas
 
 - Bioinformatics
 - Computational Biology
+- Biomedical Artificial Intelligence
+- Explainable AI
 - Computational Drug Discovery
 - Molecular Docking & Virtual Screening
-- Biomedical Data Science
-- Disease Biomarker Discovery
+- Biomedical Knowledge Graphs
+- Biomedical Machine Learning
+- Systems Biology
 - Precision Medicine
-- Multi-Omics Data Analysis
-- Bioprocess Engineering
-- Artificial Intelligence for Biological Systems
 
 ---
 
-## Current Technical Focus
+## Current Research
 
-- Python for Scientific Computing
-- Machine Learning for Biomedical Data
-- Biological Data Visualization
-- Molecular Docking Workflows
-- Biomedical Dataset Analysis
-- Drug Discovery Pipelines
-- Fermentation Process Analytics
-- Research-Oriented Data Science
+- Explainable Biomedical Intelligence Platforms
+- Biomedical Knowledge Graphs
+- Biological Network Analysis
+- Computational Drug Discovery
+- Disease Biomarker Discovery
+- Research Software Engineering
 - Reproducible Computational Workflows
 
 ---
 
-## Featured Projects
+## Flagship Research Software
 
-### COVID-19 Mpro Phytochemical Docking
-Virtual screening workflow evaluating phytochemicals against the SARS-CoV-2 main protease using computational docking and candidate ranking strategies.
+### SANJIVANI
 
-### Parkinson's Voice Biomarker ML
-Machine learning workflow for Parkinson's disease classification using biomedical voice measurements, exploratory analysis, visualization, and model evaluation.
+Explainable Biomedical Intelligence Platform for evidence-aware knowledge graphs, biological pathway exploration, confidence scoring, and computational drug-repurposing research.
 
-### Bioprocess Yield Optimization ML
-Data-driven machine learning workflow for fermentation process analysis, yield prediction, and process optimization.
+**Live Application**
 
-### Computational Drug Discovery Platform
-Computational pipeline for ligand screening, docking analysis, candidate prioritization, and virtual drug discovery workflows.
+https://sanjivani-evidence-graph.streamlit.app/
 
-### AI Biomarker Discovery
-Machine learning-based analytical workflow for identifying potential disease biomarkers from biological datasets.
+---
 
-### Bioinformatics Core Toolkit
-Collection of bioinformatics utilities for DNA sequence analysis, FASTA parsing, mutation detection, sequence statistics, and protein translation.
+## Selected Projects
+
+- SANJIVANI
+- COVID-19 Mpro Phytochemical Docking
+- Parkinson's Voice Biomarker ML
+- Bioinformatics Core Toolkit
+- Bioprocess Yield Optimization ML
+- AI Biomarker Discovery
+
+---
+
+## Technical Skills
+
+### Programming
+
+- Python
+
+### Bioinformatics
+
+- Molecular Docking
+- Knowledge Graphs
+- Sequence Analysis
+- Network Analysis
+
+### Data Science
+
+- Pandas
+- NetworkX
+- Machine Learning
+- Data Visualization
+
+### Research Tools
+
+- Git
+- GitHub
+- Streamlit
+- AutoDock Vina
+- PyMOL
 
 ---
 
 ## Academic Background
 
-**B.Tech Biotechnology**
+**B.Tech Biotechnology(Honours)**
 
-### Final Year Research Project
+**Final Year Research Project**
 
 *In Silico Molecular Docking and Virtual Screening for Identification of Potential Drug Candidates*
 
 ---
 
-## Areas of Exploration
+## Research Profiles
 
-- Molecular Docking & Virtual Screening
-- Computational Drug Discovery
-- Biomedical Machine Learning
-- Disease Biomarker Analysis
-- Biological Data Mining
-- Precision Medicine
-- Fermentation & Bioprocess Analytics
-- Scientific Computing for Life Sciences
+**ORCID**
 
----
-
-## Long-Term Goals
-
-- Computational Drug Discovery
-- Translational Bioinformatics
-- Multi-Omics Data Analysis
-- Biomedical Artificial Intelligence
-- Computational Systems Biology
-- Precision Medicine
-- Research & Development
-- Academic and Industrial Bioinformatics
-
----
-
-## Research Profile
-
-**ORCID:** https://orcid.org/0009-0008-1028-6010
-
----
-
-*"Exploring the intersection of biology, computation, and data-driven discovery."*
+https://orcid.org/0009-0008-1028-6010
