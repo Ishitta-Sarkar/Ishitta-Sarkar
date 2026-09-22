@@ -92,11 +92,22 @@ https://sanjivani-evidence-graph.streamlit.app/
 
 ## Academic Background
 
-**B.Tech Biotechnology(Honours)**
+## 🎓 Academic Background
+
+**M.Tech Bioinformatics**
+2026 – Present
+*Focus: Bioinformatics, Computational Biology, Molecular Modelling & Data Analytics*
+
+**B.Tech Biotechnology (Honours)**
+2022 – 2026
 
 **Final Year Research Project**
-
 *In Silico Molecular Docking and Virtual Screening for Identification of Potential Drug Candidates*
+
+* Structure-based computational drug discovery and virtual screening
+* Molecular docking using AutoDock Vina
+* Protein–ligand interaction analysis and visualization
+
 
 ---
 
