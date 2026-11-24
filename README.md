@@ -1,112 +1,56 @@
 # Ishitta Sarkar
 
-**Bioinformatics | Computational Biology | Biomedical Artificial Intelligence**
+Bioinformatics and computational biology
 
----
+[ORCID 0009-0008-1028-6010](https://orcid.org/0009-0008-1028-6010)
 
-## About
+I build documented computational workflows for disease biology and molecular modelling. My current work covers breast-cancer transcriptomics, machine-learning approaches to biomarkers, viral and phage genomics, and structure-based modelling of protein–ligand complexes. I am seeking PhD training and research roles in bioinformatics and computational biology.
 
-Biotechnology graduate pursuing research in **Bioinformatics, Computational Biology, and Biomedical Artificial Intelligence**. My work focuses on developing computational methods, biomedical knowledge graphs, machine learning workflows, and reproducible research software for disease biology, drug discovery, systems biology, and precision medicine.
+## Research interests
 
----
+- Cancer transcriptomics (TNBC, ER+ breast cancer)
+- Machine learning for biomarkers
+- Viral genomic surveillance and phylogenetics
+- Phage biology
+- Molecular docking and MD simulation
 
-## Research Areas
+## Selected work
 
-- Bioinformatics
-- Computational Biology
-- Biomedical Artificial Intelligence
-- Explainable AI
-- Computational Drug Discovery
-- Molecular Docking & Virtual Screening
-- Biomedical Knowledge Graphs
-- Biomedical Machine Learning
-- Systems Biology
-- Precision Medicine
+### [SANJIVANI evidence graph](https://github.com/Ishitta-Sarkar/sanjivani-evidence-graph)
 
----
+Evidence-tagged network of diseases, genes, proteins, pathways and drugs, with entity search, multi-hop path exploration, heuristic confidence scoring, evidence filters and report export. Python, NetworkX, PyVis and Streamlit. The public release is a research prototype on a demonstration-scale dataset. [Live demo](https://sanjivani-evidence-graph.streamlit.app/).
 
-## Current Research
+### [Parkinson's voice biomarker ML](https://github.com/Ishitta-Sarkar/parkinsons-voice-biomarker-ml)
 
-- Explainable Biomedical Intelligence Platforms
-- Biomedical Knowledge Graphs
-- Biological Network Analysis
-- Computational Drug Discovery
-- Disease Biomarker Discovery
-- Research Software Engineering
-- Reproducible Computational Workflows
+Supervised classification of Parkinson's disease from biomedical voice measurements in the [UCI Parkinson's dataset](https://archive.ics.uci.edu/dataset/174/parkinsons). The repository includes data loading, visualisation, scikit-learn training and exported metrics.
 
----
+### [COVID-19 Mpro phytochemical docking](https://github.com/Ishitta-Sarkar/covid-mpro-phytochemical-docking)
 
-## Flagship Research Software
+Ranking of five plant-derived compounds (quercetin, curcumin, kaempferol, andrographolide and berberine) against SARS-CoV-2 main protease ([PDB 6LU7](https://www.rcsb.org/structure/6LU7)). The repository stores predicted binding affinities and a Python workflow for comparing them.
 
-### SANJIVANI
+## Education
 
-Explainable Biomedical Intelligence Platform for evidence-aware knowledge graphs, biological pathway exploration, confidence scoring, and computational drug-repurposing research.
+- M.Tech in Bioinformatics (in progress, expected 2028)
+- B.Tech Biotechnology, Dr. A.P.J. Abdul Kalam Technical University, 2022-2026
 
-**Live Application**
+## Record
 
-https://sanjivani-evidence-graph.streamlit.app/
+- Several first-author manuscripts currently under peer review
+- Indian patent application filed (2026)
+- ANVESHAN 2026: winner, interdisciplinary domain (first round); proceeding to zone level. Project on insulin integrity monitoring; mentor Dr. Vandana Guleria
+- Presented at SCOPEX Rising Star
 
----
+## Publications
 
-## Selected Projects
+The full list is on [ORCID](https://orcid.org/0009-0008-1028-6010).
 
-- SANJIVANI
-- COVID-19 Mpro Phytochemical Docking
-- Parkinson's Voice Biomarker ML
-- Bioinformatics Core Toolkit
-- Bioprocess Yield Optimization ML
-- AI Biomarker Discovery
+- *Evaluating the Renoprotective Effects of Pharmacological Interventions in Diabetic Kidney Disease: A Comparative Study.* Kidneys, 2026. [doi:10.65327/kidneys.v15i1.622](https://doi.org/10.65327/kidneys.v15i1.622)
+- *Analytical Evaluation of Nanomaterials in Biological Systems: Synthesis, Characterisation, and Translational Applications in Medicine and Environmental Health.* Journal of Applied Bioanalysis, 2025. [doi:10.53555/jab.v11i8.1885](https://doi.org/10.53555/jab.v11i8.1885)
 
----
+## Skills
 
-## Technical Skills
+**Programming and data analysis.** Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter.
 
-### Programming
+**Bioinformatics.** Biological networks (NetworkX, PyVis); molecular docking (AutoDock Vina); molecular dynamics simulation (GROMACS); structure visualisation (PyMOL).
 
-- Python
-
-### Bioinformatics
-
-- Molecular Docking
-- Knowledge Graphs
-- Sequence Analysis
-- Network Analysis
-
-### Data Science
-
-- Pandas
-- NetworkX
-- Machine Learning
-- Data Visualization
-
-### Research Tools
-
-- Git
-- GitHub
-- Streamlit
-- AutoDock Vina
-- PyMOL
-
----
-
-## Academic Background
-
-**M.Tech Bioinformatics**
-2026 – Present
-*Focus: Bioinformatics, Computational Biology, Molecular Modelling & Data Analytics*
-
-**B.Tech Biotechnology (Honours)**
-2022 – 2026 | **CGPA: 8.65/10**
-
-**Final Year Research Project**
-*In Silico Molecular Docking and Virtual Screening for Identification of Potential Drug Candidates*
-
-* Structure-based computational drug discovery and virtual screening
-* Molecular docking using AutoDock Vina
-* Protein–ligand interaction analysis and visualization
-
-
----
-
-
+**Research software.** Git, Streamlit.
