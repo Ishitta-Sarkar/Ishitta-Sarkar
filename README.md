@@ -39,6 +39,7 @@ Docking of five plant-derived compounds against SARS-CoV-2 main protease. Pose r
 - Indian patent application filed (2026)
 - ANVESHAN 2026: winner, interdisciplinary domain (first round); proceeding to zone level. Project on insulin integrity monitoring; mentor Dr. Vandana Guleria
 - Presented at SCOPEX Rising Star
+- Awards for oral presentations at research events
 
 ## Publications
 
