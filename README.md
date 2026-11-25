@@ -4,7 +4,7 @@ Bioinformatics and computational biology
 
 [ORCID 0009-0008-1028-6010](https://orcid.org/0009-0008-1028-6010)
 
-I work on computational methods in disease biology and molecular modelling, with a focus on breast-cancer transcriptomics, machine learning for biomarkers, viral and phage genomics, and structure-based modelling of protein–ligand complexes. I am applying for PhD training and research roles in bioinformatics and computational biology.
+I build documented computational workflows for disease biology and molecular modelling. My current work covers breast-cancer transcriptomics, machine-learning approaches to biomarkers, viral and phage genomics, and structure-based modelling of protein–ligand complexes. I am seeking PhD training and research roles in bioinformatics and computational biology.
 
 ## Research interests
 
@@ -22,16 +22,16 @@ Evidence-tagged network of diseases, genes, proteins, pathways and drugs, with e
 
 ### [Parkinson's voice biomarker ML](https://github.com/Ishitta-Sarkar/parkinsons-voice-biomarker-ml)
 
-Classification of Parkinson's disease from biomedical voice measurements in the [UCI Parkinson's dataset](https://archive.ics.uci.edu/dataset/174/parkinsons), scored with subject-grouped cross-validation so test folds are people the model has not seen.
+Supervised classification of Parkinson's disease from biomedical voice measurements in the [UCI Parkinson's dataset](https://archive.ics.uci.edu/dataset/174/parkinsons). The repository includes data loading, visualisation, scikit-learn training and exported metrics.
 
 ### [COVID-19 Mpro phytochemical docking](https://github.com/Ishitta-Sarkar/covid-mpro-phytochemical-docking)
 
-Docking of five plant-derived compounds against SARS-CoV-2 main protease. Pose recovery is checked on the non-covalent complex PDB 6W63; PDB 6LU7 is kept as a covalent-complex negative control. Scores are AutoDock Vina values from a scripted run, not measured affinities.
+Ranking of five plant-derived compounds (quercetin, curcumin, kaempferol, andrographolide and berberine) against SARS-CoV-2 main protease ([PDB 6LU7](https://www.rcsb.org/structure/6LU7)). The repository stores predicted binding affinities and a Python workflow for comparing them.
 
 ## Education
 
 - M.Tech in Bioinformatics (in progress, expected 2028)
-- B.Tech Biotechnology (Honours), Dr. A.P.J. Abdul Kalam Technical University, 2022-2026
+- B.Tech Biotechnology, Dr. A.P.J. Abdul Kalam Technical University, 2022-2026
 
 ## Record
 
