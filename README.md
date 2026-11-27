@@ -20,6 +20,10 @@ I work on computational methods in disease biology and molecular modelling, with
 
 Evidence-tagged network of diseases, genes, proteins, pathways and drugs, with entity search, multi-hop path exploration, heuristic confidence scoring, evidence filters and report export. Python, NetworkX, PyVis and Streamlit. The public release is a research prototype on a demonstration-scale dataset. [Live demo](https://sanjivani-evidence-graph.streamlit.app/).
 
+### [TNBC transcriptomic biomarker analysis](https://github.com/Ishitta-Sarkar/ai-biomarker-discovery)
+
+Differential expression between triple-negative and other breast tumours in GSE76275, with an elastic-net classifier tested on the independent TCGA-BRCA cohort.
+
 ### [Parkinson's voice biomarker ML](https://github.com/Ishitta-Sarkar/parkinsons-voice-biomarker-ml)
 
 Classification of Parkinson's disease from biomedical voice measurements in the [UCI Parkinson's dataset](https://archive.ics.uci.edu/dataset/174/parkinsons), scored with subject-grouped cross-validation so test folds are people the model has not seen.
@@ -31,11 +35,11 @@ Docking of five plant-derived compounds against SARS-CoV-2 main protease. Pose r
 ## Education
 
 - M.Tech in Bioinformatics (in progress, expected 2028)
-- B.Tech Biotechnology (Honours), Dr. A.P.J. Abdul Kalam Technical University, 2022-2026
+- B.Tech Biotechnology (Honours), Dr. A.P.J. Abdul Kalam Technical University, 2022–2026
 
 ## Record
 
-- Several first-author manuscripts currently under peer review
+- Two first-author manuscripts under peer review
 - Indian patent application filed (2026)
 - ANVESHAN 2026: winner, interdisciplinary domain (first round); proceeding to zone level. Project on insulin integrity monitoring; mentor Dr. Vandana Guleria
 - Presented at SCOPEX Rising Star
@@ -55,36 +59,3 @@ The full list is on [ORCID](https://orcid.org/0009-0008-1028-6010).
 **Bioinformatics.** Biological networks (NetworkX, PyVis); molecular docking (AutoDock Vina); molecular dynamics simulation (GROMACS); structure visualisation (PyMOL).
 
 **Research software.** Git, Streamlit.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
