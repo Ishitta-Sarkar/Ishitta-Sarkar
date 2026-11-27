@@ -2,7 +2,7 @@
 
 Bioinformatics and computational biology
 
-[ORCID 0009-0008-1028-6010](https://orcid.org/0009-0008-1028-6010)
+[Website](https://ishitta-sarkar.github.io) · [ORCID 0009-0008-1028-6010](https://orcid.org/0009-0008-1028-6010) · [Google Scholar](https://scholar.google.com/citations?user=xJ_ju80AAAAJ)
 
 I work on computational methods in disease biology and molecular modelling, with a focus on breast-cancer transcriptomics, machine learning for biomarkers, viral and phage genomics, and structure-based modelling of protein–ligand complexes. I am applying for PhD training and research roles in bioinformatics and computational biology.
 
